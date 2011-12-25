@@ -1,0 +1,12 @@
+[
+	{ "keys": ["super+1"], "command": "goto_tab", "args": {"tab":"1"} },
+	{ "keys": ["super+2"], "command": "goto_tab", "args": {"tab":"2"} },
+	{ "keys": ["super+3"], "command": "goto_tab", "args": {"tab":"3"} },
+	{ "keys": ["super+4"], "command": "goto_tab", "args": {"tab":"4"} },
+	{ "keys": ["super+5"], "command": "goto_tab", "args": {"tab":"5"} },
+	{ "keys": ["super+6"], "command": "goto_tab", "args": {"tab":"6"} },
+	{ "keys": ["super+7"], "command": "goto_tab", "args": {"tab":"7"} },
+	{ "keys": ["super+8"], "command": "goto_tab", "args": {"tab":"8"} },
+	{ "keys": ["super+9"], "command": "goto_tab", "args": {"tab":"9"} },
+	{ "keys": ["super+0"], "command": "goto_tab", "args": {"tab":"10"} }
+]
