@@ -7,6 +7,5 @@
 	{ "keys": ["ctrl+6"], "command": "goto_tab", "args": {"tab":"6"} },
 	{ "keys": ["ctrl+7"], "command": "goto_tab", "args": {"tab":"7"} },
 	{ "keys": ["ctrl+8"], "command": "goto_tab", "args": {"tab":"8"} },
-	{ "keys": ["ctrl+9"], "command": "goto_tab", "args": {"tab":"9"} },
-	{ "keys": ["ctrl+0"], "command": "goto_tab", "args": {"tab":"10"} }
+	{ "keys": ["ctrl+9"], "command": "goto_tab", "args": {"tab":"last"} }
 ]

@@ -7,6 +7,5 @@
 	{ "keys": ["super+6"], "command": "goto_tab", "args": {"tab":"6"} },
 	{ "keys": ["super+7"], "command": "goto_tab", "args": {"tab":"7"} },
 	{ "keys": ["super+8"], "command": "goto_tab", "args": {"tab":"8"} },
-	{ "keys": ["super+9"], "command": "goto_tab", "args": {"tab":"9"} },
-	{ "keys": ["super+0"], "command": "goto_tab", "args": {"tab":"10"} }
+	{ "keys": ["super+9"], "command": "goto_tab", "args": {"tab":"last"} }
 ]
