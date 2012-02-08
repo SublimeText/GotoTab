@@ -26,8 +26,8 @@ Install manually:
 
 Defaults
 --------
-* The default windows key bindings set ctrl-1 through ctrl-0 as tabs 1 through 10
-* The default osx key bindings set cmd-1 through cmd-0 as tabs 1 through 10
+* The default windows key bindings set ctrl-1 through ctrl-8 as tabs 1 through 8, with ctrl-9 going to the last tab (as in common browsers)
+* The default osx key bindings set cmd-1 through cmd-8 as tabs 1 through 8, with cmd-9 going to the last tab (as in common browsers)
 
 Usage
 -----
