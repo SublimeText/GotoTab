@@ -1,0 +1,11 @@
+[
+	{ "keys": ["ctrl+1"], "command": "goto_tab", "args": {"tab":"1"} },
+	{ "keys": ["ctrl+2"], "command": "goto_tab", "args": {"tab":"2"} },
+	{ "keys": ["ctrl+3"], "command": "goto_tab", "args": {"tab":"3"} },
+	{ "keys": ["ctrl+4"], "command": "goto_tab", "args": {"tab":"4"} },
+	{ "keys": ["ctrl+5"], "command": "goto_tab", "args": {"tab":"5"} },
+	{ "keys": ["ctrl+6"], "command": "goto_tab", "args": {"tab":"6"} },
+	{ "keys": ["ctrl+7"], "command": "goto_tab", "args": {"tab":"7"} },
+	{ "keys": ["ctrl+8"], "command": "goto_tab", "args": {"tab":"8"} },
+	{ "keys": ["ctrl+9"], "command": "goto_tab", "args": {"tab":"last"} }
+]
